@@ -1,6 +1,10 @@
 
 # Comprehensive Stock Market Index Forecasting Model Based on LSTM: A Case Study of Dow Jones and SSE Composite Index
 # 基于LSTM的综合性股票市场指数预测模型 —— 以道琼斯指数和上证综指为例
+## 更新说明
+
+
+
 
 ## 写在前面
 
